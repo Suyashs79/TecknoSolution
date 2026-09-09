@@ -31,8 +31,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Teckno Space",
-    template: "%s | Teckno Space",
+    default: "Teckno-Space",
+    template: "%s | Teckno-Space",
   },
   description:
     "A unified workspace for managing enterprise applications, tools and workflows.",

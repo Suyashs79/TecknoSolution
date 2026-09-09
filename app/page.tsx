@@ -39,7 +39,7 @@ export default function HomePage() {
             </div>
 
             <span className="font-heading text-xl font-semibold tracking-tight text-slate-900">
-              Teckno Space
+              Teckno-Space
             </span>
           </Link>
 
@@ -239,7 +239,7 @@ export default function HomePage() {
                 text-slate-600
               "
             >
-              Teckno Space brings your applications, workflows,
+              Teckno-Space brings your applications, workflows,
               productivity tools and business systems together
               in one intelligent workspace.
             </p>
@@ -391,7 +391,7 @@ export default function HomePage() {
                 <div className="hidden border-r border-slate-200 bg-slate-900 p-5 sm:block">
 
                   <div className="mb-8 text-lg font-semibold text-white">
-                    Teckno Space
+                    Teckno-Space
                   </div>
 
 
@@ -589,7 +589,7 @@ export default function HomePage() {
               </h2>
 
               <p className="mt-6 max-w-xl text-lg leading-8 text-slate-600">
-                Teckno Space is designed to become the central
+                Teckno-Space is designed to become the central
                 operating layer for your digital workplace.
               </p>
 
@@ -629,7 +629,7 @@ export default function HomePage() {
         <div className="mx-auto max-w-4xl px-6 text-center lg:px-8">
 
           <p className="text-sm font-semibold uppercase tracking-widest text-slate-500">
-            About Teckno Space
+            About Teckno-Space
           </p>
 
           <h2
@@ -785,7 +785,7 @@ export default function HomePage() {
         >
 
           <span>
-            © {new Date().getFullYear()} Teckno Space
+            © {new Date().getFullYear()} Teckno-Space
           </span>
 
           <span>

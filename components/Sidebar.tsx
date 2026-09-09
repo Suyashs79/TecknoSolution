@@ -65,7 +65,7 @@ export function Sidebar() {
           </div>
 
           <span className="font-heading text-lg font-semibold text-white">
-            Teckno Space
+            Teckno-Space
           </span>
 
         </Link>
@@ -181,7 +181,7 @@ export function Sidebar() {
         <div className="rounded-xl bg-white/5 p-4">
 
           <div className="text-xs font-medium text-slate-400">
-            Teckno Space
+            Teckno-Space
           </div>
 
           <div className="mt-1 text-sm text-white">

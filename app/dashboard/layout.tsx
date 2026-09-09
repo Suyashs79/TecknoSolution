@@ -21,7 +21,7 @@ export default function DashboardLayout({
         <header className="flex h-16 shrink-0 items-center justify-between border-b bg-white px-6">
 
           <h1 className="font-heading text-xl font-semibold text-slate-800">
-            Teckno Space
+            Teckno-Space
           </h1>
 
           <div className="flex items-center gap-4">
